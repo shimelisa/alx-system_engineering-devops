@@ -1,0 +1,1 @@
+repository for bash projects
